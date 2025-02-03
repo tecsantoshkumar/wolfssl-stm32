@@ -1,0 +1,12 @@
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_iwdg.h:141:22:LL_IWDG_Enable	1
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_iwdg.h:152:22:LL_IWDG_ReloadCounter	1
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_iwdg.h:163:22:LL_IWDG_EnableWriteAccess	1
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_iwdg.h:193:22:LL_IWDG_SetPrescaler	1
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_iwdg.h:223:22:LL_IWDG_SetReloadCounter	1
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_iwdg.h:311:26:LL_IWDG_IsReady	2
+../Core/Src/main.c:75:6:encrypt_string	1
+../Core/Src/main.c:118:5:main	2
+../Core/Src/main.c:180:6:SystemClock_Config	3
+../Core/Src/main.c:220:13:MX_IWDG_Init	2
+../Core/Src/main.c:250:13:MX_GPIO_Init	1
+../Core/Src/main.c:266:6:Error_Handler	1

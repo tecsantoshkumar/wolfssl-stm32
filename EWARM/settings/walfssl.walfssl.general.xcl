@@ -1,0 +1,15 @@
+"E:\Software\IAR_9.5.0\arm\bin\armPROC.dll" 
+
+"E:\Software\IAR_9.5.0\arm\bin\armSTLINK.dll" 
+
+"D:\STM32\new-work\JIO\Source Code\walfssl -stm32G0\EWARM\walfssl\Exe\walfssl.out" 
+
+--plugin="E:\Software\IAR_9.5.0\arm\bin\armLibSupportUniversal.dll" 
+
+--device_macro="E:\Software\IAR_9.5.0\arm/config/debugger/ST/STM32G0xx.dmac" 
+
+--flash_loader="E:\Software\IAR_9.5.0\arm/config/flashloader/ST/FlashSTM32G0BxxB.board" 
+
+
+
+

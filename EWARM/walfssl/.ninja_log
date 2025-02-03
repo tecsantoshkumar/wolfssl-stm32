@@ -1,0 +1,685 @@
+# ninja log v5
+1978	2393	7361217317191078	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/compress.o	8216704af0c3c15c
+8465	9743	7363704386491164	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_armthumb.o	e296a0ebf1133e65
+85	518	7361217297934109	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-chacha.o	a802ca04b4ca9daa
+13707	13892	7363704428196948	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+30	515	7361202790000124	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/CMSIS_6603591812247902717.dir/system_stm32g0xx.o	6ed7c56137716923
+9496	9906	7363704388452840	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sha512.o	89b3e3e238526fb0
+977	1398	7361217307038810	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/blake2s.o	a702163779ca4e6
+8	435	7361690971156722	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/Core_13247989168731456611.dir/main.o	50e93525470744c5
+5722	6130	7361217354557076	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/stm32.o	b32d707aee988649
+1770	2468	7361217317610819	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/coding.o	870da5a8c41cac4f
+8244	9378	7363704383018558	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_x86_64.o	642d4aaecd89ab17
+12842	13255	7361202917441097	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/Core_13247989168731456611.dir/stm32g0xx_it.o	69c455dfaad55262
+4371	4836	7363704337741954	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ecc.o	55ea1a6e34e888f4
+9766	10182	7361217395055541	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/tls13.o	b7ab3122b3a38013
+2924	3355	7361217326567554	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ed25519.o	6d57f2313bc3d236
+38	544	7361202790156519	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_dma_ex.o	da5274c6bbbe5b4f
+21	730	7361202791898353	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_dma.o	e922e30e83a17a4c
+518	1247	7361202797259942	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_flash_ex.o	82bcf455d443c78e
+68	496	7361217297934109	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-32-sha512-asm_c.o	18b3f7be835144fa
+25	702	7361218986763954	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/ssl.o	4b141e604a85cbe7
+12802	13226	7361202917113683	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/Core_13247989168731456611.dir/stm32g0xx_hal_msp.o	3c8c2266d54cd265
+612	1169	7361202796505232	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_flash.o	975871c56ea4b411
+2004	2447	7361217317348656	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/curve25519.o	9ce9496a6893db54
+1345	1974	7361217312929576	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/chacha.o	c459bed52360bfea
+49	608	7361202790664465	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal.o	d2907c13d4d695e3
+15	594	7361202790542157	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_cortex.o	a3d03d7508fc2c73
+2510	2918	7361217322227988	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ed448.o	9b6c3a898ff0ac57
+600	1117	7361202795861495	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_exti.o	baa17d0befa4c0d9
+1173	1824	7361202802929930	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_pwr_ex.o	fc9abe59cbf8cad9
+2018	2502	7361217317824557	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/cmac.o	36226a9d266b192
+719	1293	7361202797577006	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_gpio.o	924b7a4ce1993b2f
+1039	1502	7363704304406901	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_crs.o	564740cf48cb3bc9
+1120	1588	7361202800723518	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_pwr.o	79a19cfabfe8bdbd
+11	356	7361217296842523	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/arc4.o	591d92e77585414c
+3172	3667	7361217329959975	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ge_448.o	f2df4b1cbcbd494c
+8086	8549	7361217378578975	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wolfmath.o	9a14bf82dc559718
+2038	3889	7361080885634407	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_fdcan.o	9a22d0e5f1ac2701
+1256	1690	7361202801668843	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_crs.o	20ceecb5053c2bec
+7186	7640	7363704365621137	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/rsa.o	772f415c025d78ed
+3326	3703	7361217330133958	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/fe_operations.o	611443f179fe880d
+736	1449	7361202799365864	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_rcc.o	69272753e68a0741
+548	977	7361202794580921	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_tim.o	c564a390d153f2b6
+9667	10050	7361217393803125	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/x509_str.o	73a1d44a9d28909c
+1302	1731	7361202802235636	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_tim_ex.o	5c34e46333486d63
+3708	4626	7361080892964980	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_uart_ex.o	cec94f886302bee3
+12042	12488	7363704414278307	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/ocsp.o	e6b5329624d58ca9
+1926	2665	7361202811466232	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_rcc.o	1ce4395fb10c2efa
+982	1809	7361202802929930	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_rcc_ex.o	4faa7caa286c88a2
+8130	8639	7363704375691399	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/stm32.o	e7b5a2859bb4a5cd
+1593	2107	7361202805897200	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_exti.o	2c7d3979803cb38c
+15382	15432	7361142097904244	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/EWARM_18443280873093131863.dir/startup_stm32g0b1xx.o	34545c45086c28d8
+2398	2855	7361217321761835	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/curve448.o	5337fb5b187391e3
+1454	1921	7361202804076979	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_dma.o	8f1950436aa7221
+485	972	7361217302675077	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-curve25519_c.o	51eb34398af21364
+1813	2444	7361202808929179	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_utils.o	1a3f6dbd18975c82
+5272	5713	7361217350301544	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/stsafe.o	d4e1efd42f0cdb16
+1829	2394	7361202808772958	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_gpio.o	6cc99836425a55a7
+101	480	7361217297934109	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-32-curve25519_c.o	bf9cbbb10388684e
+3796	6214	7361080908691887	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_uart.o	f565af43aaed06c2
+3035	3460	7361217327740908	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/fe_448.o	8b4de78783f439b2
+404	704	7361786261762936	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Exe/walfssl.out	519409d8a6db471
+1635	2096	7361217314207384	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/des3.o	fb0e596f28d452b4
+705	751	7361786263321692	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Exe/walfssl.hex	9cfb258810ae1f28
+3001	3501	7361217327897293	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/eccsi.o	a5dc12cce2be06ce
+5606	5698	7361202841905077	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ecc_fp.o	2ba4ea921b5885a8
+358	783	7361217301094392	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-aes.o	755c6abed5dd6c56
+501	921	7361217302519944	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-poly1305.o	9f0e81c5fac0da0b
+8931	9406	7361217387181797	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/sniffer.o	3add6a246a65d240
+790	1181	7361217305093841	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/asm.o	186c1fcb1e5cc603
+11253	12296	7363704412103042	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/ssl.o	2703989941e07ddd
+524	958	7361217302675077	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-sha512.o	937794dfd097bafc
+2889	3321	7361217326477478	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/evp.o	86e84e3e8f806f66
+12926	13364	7363704422997883	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal.o	7e21f53bdee1fd54
+926	1364	7361217306776750	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-sha256.o	e33a400eaa793c65
+8817	9489	7363704383797815	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_c32.o	9a02916f96cc64de
+1186	1625	7361217309461233	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/camellia.o	536bb9be2bc7fddb
+963	1341	7361217306620338	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/atmel.o	dfe7702adf7654c1
+1571	1999	7361217313085837	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/dh.o	4c306cc87cdc7621
+19	3168	7361217324941976	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/aes.o	e18ef31899478126
+1369	1765	7361217310886093	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/blake2b.o	10fb8c3db7606bde
+2575	2995	7361217323332797	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/fe_low_mem.o	168556cb7fd07f9b
+2101	2567	7361217318962696	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/cpuid.o	5c25810456e8bd59
+497	1238	7363704301710660	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_flash_ex.o	3d2758859c480524
+1403	2014	7361217313085837	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/chacha20_poly1305.o	3bbdfb6613e3e58
+12494	12919	7363704418558758	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/tls.o	2477105cd1c7c27
+2453	2883	7361217321911946	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/dsa.o	312eda59987f8f2e
+3507	3933	7361217332631117	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/md4.o	41f676ebcdfaa6dd
+3472	3867	7361217331852294	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/md2.o	aa7abc42dc6ffce6
+2473	3029	7361217323489068	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/error.o	2d8bf58d4424f42e
+6686	7178	7363704360954711	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/pkcs7.o	cca09d937ebd36cd
+3836	4309	7361217336256733	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ge_operations.o	c429ad6e8bfcafeb
+3939	4324	7361217336256733	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ge_low_mem.o	d7f186129a44670a
+3872	4396	7361217336985516	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/kdf.o	bfe6b50841b6df62
+11828	12243	7363704411832981	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/keys.o	aa6fc7d9e8dcd6de
+3672	4276	7361217335946460	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/hash.o	c6a446222d8b7332
+43	618	7363704295375362	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_gpio.o	7cd99df8a4fe1d63
+3361	3833	7361217331571074	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/integer.o	913a686e4f3c6748
+5	631	7363704295395443	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/Core_13247989168731456611.dir/main.o	b89ecf7f8aa9eca5
+4807	5224	7361217345572452	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/pkcs7.o	86d511e5f6c0eb88
+3707	4362	7361217336569678	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/hmac.o	cf2f425ef9d90704
+3374	4089	7361217334218114	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/logging.o	6268afb1bb071ded
+6799	7287	7361217366053981	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/signature.o	445a32ca8d3469ad
+10430	10810	7363704397482876	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/conf.o	b43d5f6c2d3c4dd3
+636	1192	7363704301199410	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_pwr_ex.o	6188a30c9fe067ce
+4367	4799	7361217341301553	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/memory.o	96ddc4b19bb813ae
+4094	4865	7361217341809606	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/md5.o	d492e271ff5d540d
+4329	4706	7361217340399741	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/rc2.o	7f7d99b24e9f8646
+4007	4400	7363704333048563	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/dsa.o	7191b3764197b9df
+4712	5122	7361217344461325	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ripemd.o	7d73da13fe005eb6
+4871	5525	7361217348413321	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/poly1305.o	e9434416ea835bf6
+4401	4832	7361217341457918	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/misc.o	fc8ce6781a2f53aa
+4280	5136	7361217344461325	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/pwdbased.o	93b21489d0edf540
+5531	5926	7361217352525437	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/srp.o	ab089f0cc560d7d5
+5581	6082	7361217354079663	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wc_dsp.o	f59042b5917094ae
+5684	6286	7361217356212164	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wc_encrypt.o	4127d4419c1e41db
+5230	5733	7361217350342146	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_int.o	3d1119cbb6909fa1
+5140	5676	7361217349986047	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_dsp32.o	1a4068732fc86a12
+6613	7103	7363704360353464	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/misc.o	a845290538b842c3
+6392	6795	7361217361015237	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sha3.o	e19723eb680879e6
+4315	5564	7361217348726051	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/pkcs12.o	435d41816890ec48
+5741	6781	7361217360858978	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_x86_64.o	3d2b387e8fc0d0b1
+6785	7251	7361217365578498	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sha512.o	5b51aa502fdb0112
+5037	5637	7363704345715698	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/error.o	1018c69b49cf6856
+5126	5577	7361217348882201	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/rsa.o	61367bcbe18c0a48
+2861	3369	7361217326663249	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ecc.o	9ab8589cfa4207af
+6136	6522	7361217358510714	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sha.o	8bce046d97e467a7
+6530	7645	7361217369525072	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_arm32.o	39ccf1121ef9b9a6
+6087	6843	7361217361645525	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sha256.o	e023f37790ff8687
+5931	6386	7361217357071010	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sakke.o	f332b2003c47c53d
+11178	11569	7363704405087747	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/crl.o	5a3520235535859c
+6848	8047	7361217373614554	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_arm64.o	a8fb4eefb97f9524
+7256	7941	7361217372565597	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_cortexm.o	29821668008fb44
+7568	8249	7361217375659825	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_c64.o	3d9f6b888a4eb949
+6291	7562	7361217368734991	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_armthumb.o	613d8a59a701d30a
+9209	9661	7361217389899094	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/keys.o	cf14021d06a6e982
+12774	13444	7363704423748605	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_dma.o	a90532a02a9753f4
+6091	6732	7363704356671472	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/hash.o	5f10e556ac2f4944
+8555	8986	7361217382918818	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/pk.o	89a3d2663c4f0467
+7292	7978	7361217372665714	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_c32.o	bf87d2d6fc0a74ff
+9561	9970	7361217392858962	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/tls.o	b94b2394a785c677
+8521	8966	7361217382606306	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/quic.o	286386aab93a6c7c
+9371	9761	7361217390812562	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/ocsp.o	c7243484fe978f0a
+8975	9571	7361217388593193	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/internal.o	2ca34ecbec03ec21
+9411	9806	7361217391283622	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/ssl_misc.o	8652216a4adc28a6
+8053	8398	7361217377234186	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wolfevent.o	94592a014384d4de
+7650	8081	7361217374096608	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/conf.o	ce71f1b51316f0ab
+7946	8516	7361217378337172	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wc_port.o	8a3a064e7618526e
+5745	6386	7363704353238163	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/hmac.o	88541dc5fe090c98
+7904	8317	7361217376449105	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wc_pkcs11.o	c834ad6bef5b294b
+11942	12382	7363704413214381	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/ssl_misc.o	75df768d5fb6cf4d
+6973	8296	7363704372108745	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/pkcs12.o	4f29b883dbc3d44d
+8992	9366	7361217386931355	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/dtls13.o	47358fc5a1123b66
+12733	13170	7363704421093585	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/CMSIS_6603591812247902717.dir/system_stm32g0xx.o	af8adceab29fc2ea
+8408	8794	7361217381185453	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/bio.o	93a53a3005b5b7a9
+8799	9202	7361217385283480	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/crl.o	e00d51cb7be47f85
+3203	3830	7363704327601591	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/chacha.o	119bc1a289ca281f
+9106	9553	7361217388593193	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/dtls.o	159abed6c4c98b3d
+2350	2793	7363704317313370	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-aes.o	af883f1282ca8f1a
+9811	10210	7361217395398635	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/x509.o	9ccf55b66a78c49b
+4	399	7361786259535272	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/wolfio.o	b9253b9930348b58
+5568	7897	7361217372192059	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/tfm.o	8fe51e5228440d0d
+7984	9101	7361217384178063	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Test_15629031776329140406.dir/benchmark.o	804964a34b4707ae
+4768	5243	7363704341814580	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/fe_operations.o	b879f5ea6e697e01
+624	1377	7363704303066417	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_rcc.o	99a072646ab60b0b
+4837	5268	7361217346010758	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/random.o	535d657cdea36fc5
+5	2301	7361219002728258	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/asn.o	21bb9ada5e070df4
+7109	7558	7363704364954881	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/random.o	f8a1f02e781f63ec
+19	2128	7361219000993053	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Test_15629031776329140406.dir/test.o	2b3467f72f27f806
+3	423	7361219888103682	D:/STM32/new-work/JIO/Source Code/walfssl/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Test_15629031776329140406.dir/wolfssl_example.o	2ee95e487e7bf6e5
+24	492	7363704293965061	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/Core_13247989168731456611.dir/stm32g0xx_hal_msp.o	f90191da556d694b
+48	459	7363704293899730	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_pwr.o	9f680e3adca06ffe
+28	524	7363704294351167	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/Core_13247989168731456611.dir/stm32g0xx_it.o	37f062b40404bf82
+33	577	7363704295043014	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_exti.o	d066325e150eb411
+583	1034	7363704299350659	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_tim_ex.o	5c90c101ec341f6a
+528	1048	7363704299360752	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_tim.o	2cece1388c9cf370
+463	1013	7363704299315423	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_flash.o	b2da911e66c5a789
+1018	1906	7363704308208224	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_rcc_ex.o	5a7a0b3673df739
+1052	1767	7363704306780283	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_rcc.o	1165605e56f27437
+12525	13027	7363704419598768	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_cortex.o	6b59274955b6ca6b
+1383	1870	7363704308042703	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_gpio.o	6bc71ee70c942d5c
+1244	1741	7363704306434221	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_dma.o	90cce09ea74890ac
+1197	1689	7363704306218313	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_exti.o	e51f82b4de9d0669
+4302	4762	7363704337020543	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/cpuid.o	1ee1a7c28374085b
+1745	2187	7363704311050989	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-32-curve25519_c.o	ce5dec97476af1c0
+1875	2432	7363704313586486	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_utils.o	d3cf68bdd1749ef4
+1694	2130	7363704310732835	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/arc4.o	a84efe12f8d80a7f
+10717	11128	7363704400670208	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wolfevent.o	6f0c603aac77e74e
+1772	2235	7363704311435796	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-32-sha512-asm_c.o	fdef95427f3f3d58
+2193	2649	7363704315715222	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-chacha.o	ccb1d3b8cfc3cedb
+4408	4848	7363704337772057	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/curve25519.o	5df630846c19f717
+1910	2344	7363704312836694	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-sha256.o	493bde4d06091580
+2140	2593	7363704315324819	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-poly1305.o	9e507803ec4e102
+2242	2679	7363704316065864	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-curve25519_c.o	f1ebbdd2956cecbc
+2599	3015	7363704319482777	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/atmel.o	a34522e260b88d5b
+2799	3198	7363704321376890	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/blake2b.o	d531b7c2ef4f276d
+2656	3056	7363704319902085	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-sha512.o	2fc3d3fe8643f33d
+2438	2868	7363704318049850	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/asm.o	b656b943ba5283c4
+13899	13914	7363704428669842	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
+3311	3706	7363704326458055	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/blake2s.o	6ad062281c8663c4
+6496	6967	7363704359018033	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/md2.o	b6eea34c3cb50604
+3022	3575	7363704325078140	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/chacha20_poly1305.o	98c409cd3cfd1242
+2875	3306	7363704322434788	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/camellia.o	6a1eac276594f5b
+3062	3473	7363704324100427	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/cmac.o	954656cdcd447982
+3579	4001	7363704329317987	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/compress.o	1381b397d69a29c0
+3479	3949	7363704328836488	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/dh.o	8fdbdb106b3605d9
+3835	4297	7363704332338686	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/des3.o	7129d1f41beba392
+4514	4599	7363704335453366	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ecc_fp.o	ba8fa1387701561f
+3955	4366	7363704332917920	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/curve448.o	6aedd4d727bb031a
+1507	4565	7363704335001765	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/aes.o	90f5e53aba94987f
+4573	5030	7363704339533926	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ed448.o	8a97ff9899611f5c
+6028	6770	7363704356894269	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/logging.o	15046515bd69b72b
+5290	5737	7363704346455632	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ge_low_mem.o	f57aa9c617b9be4b
+3712	4509	7363704334400022	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/coding.o	3ac1970528ce2dc6
+12857	13322	7363704422556714	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_dma_ex.o	ef5799a4dda775a7
+4854	5322	7363704342482045	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/eccsi.o	eac4f18cbb210abe
+4841	5284	7363704342157097	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/evp.o	87bf07d18379b19
+4606	5084	7363704339769768	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/fe_low_mem.o	a710cab1b3f28162
+5249	5669	7363704345876315	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/fe_448.o	7bdcec3e1e014b9e
+5327	5722	7363704346274858	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ed25519.o	4aed3c1d9879508b
+5090	5541	7363704344818893	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ge_448.o	caec73208717e667
+5546	6023	7363704349636516	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ge_operations.o	4eb6f921f79ec051
+5643	6085	7363704350082671	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/md4.o	689511f6f6810ff1
+6393	6896	7363704358354710	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/memory.o	222cee59a03ff024
+5679	6489	7363704354261103	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/md5.o	fda26fe3aa2ebff9
+2687	6606	7363704355109330	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/asn.o	431c69a24a75831
+5730	6253	7363704351915257	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/kdf.o	afe7fbfc52f466af
+8924	9719	7363704386556441	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sha256.o	f321d50657e6f444
+6261	6676	7363704356141146	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/integer.o	5a8cc0a3cc4bf7d2
+6904	7363	7363704362921570	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ripemd.o	aeee8791bd42dcaf
+7369	8044	7363704369766185	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/poly1305.o	5d2eb19151145cd0
+7154	7609	7363704365434596	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sakke.o	e3a936ac920f0eed
+6778	7148	7363704360813855	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/rc2.o	adf3831b66d67265
+7563	7969	7363704369067403	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sha.o	ef14ee4853b74bd1
+8351	8811	7363704377443853	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wc_dsp.o	1ed60a6449561496
+7975	8458	7363704373977184	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wc_pkcs11.o	27382107c23cde9b
+6740	7688	7363704366174980	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/pwdbased.o	b90a6279fef5946
+7646	8124	7363704370640520	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/stsafe.o	ef189f83f04ac6ac
+7695	8239	7363704371755562	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wc_port.o	cc159d047fee0c27
+7614	8345	7363704372384554	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wc_encrypt.o	3e1f868db58ef623
+8049	8499	7363704374306405	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/srp.o	64e9abb68eaa500a
+9261	9782	7363704387198157	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/signature.o	c425a8c59ed41bc8
+8504	8918	7363704378584284	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sha3.o	70272258fd8b66d7
+9725	10869	7363704397683930	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_arm32.o	963e31c23ca0b831
+9914	10377	7363704393134372	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_int.o	ff7c753983b7f73f
+8303	10712	7363704396246405	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/tfm.o	6e326a7fe7355d6c
+8645	9255	7363704381892830	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_c64.o	6cef785c5c92e774
+9383	10689	7363704396095910	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_arm64.o	796f4e95583f2f25
+9787	10264	7363704392034323	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_dsp32.o	addac180066a66cd
+10816	11247	7363704401898519	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/dtls.o	2dc2326ba19aea94
+9749	10424	7363704393320024	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_cortexm.o	5103fba20e6103f
+11135	11936	7363704408591421	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Test_15629031776329140406.dir/wolfssl_example.o	df025d1ed0aa4d60
+10695	11172	7363704400768701	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/bio.o	84efbfb94798c5c9
+10874	11352	7363704402861472	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wolfmath.o	caa5033a8afd1357
+10269	11456	7363704403798677	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Test_15629031776329140406.dir/benchmark.o	492d6972754baac6
+12249	12727	7363704416611127	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/pk.o	739c600f8a77d7eb
+11575	12007	7363704409318495	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/dtls13.o	94c63a70c0ebb351
+11358	11823	7363704407632566	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/quic.o	5db655d640c28232
+12014	12520	7363704414484674	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/sniffer.o	ffcd2f1971ce089f
+11461	12037	7363704409413856	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/internal.o	d99545539e2ae189
+12303	12767	7363704416995733	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/tls13.o	5d941272d92f344a
+12390	12851	7363704417836284	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/wolfio.o	7529908497c0cedd
+13034	13083	7363704420334276	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/EWARM_18443280873093131863.dir/startup_stm32g0b1xx.o	50cb29168ea6d98e
+13088	13471	7363704424019204	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/x509_str.o	d951259959bb810f
+13176	13567	7363704425111876	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/x509.o	1e9ff7ae25414ca1
+10383	13704	7363704426346072	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Test_15629031776329140406.dir/test.o	9885dac01883d792
+5	344	7363705564222999	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/Core_13247989168731456611.dir/main.o	b89ecf7f8aa9eca5
+345	553	7363705566177340	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+557	569	7363705566574373	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
+4	311	7363706001693867	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/Core_13247989168731456611.dir/main.o	b89ecf7f8aa9eca5
+312	526	7363706003688650	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+530	543	7363706004129530	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
+4	340	7363707226576077	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/Core_13247989168731456611.dir/main.o	b89ecf7f8aa9eca5
+342	513	7363707228109956	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+518	530	7363707228574879	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
+19	1139	7363710292088735	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/Core_13247989168731456611.dir/stm32g0xx_it.o	37f062b40404bf82
+24	1334	7363710294007084	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/Core_13247989168731456611.dir/stm32g0xx_hal_msp.o	f90191da556d694b
+39	1388	7363710294140543	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_pwr.o	9f680e3adca06ffe
+30	1423	7363710294493963	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_gpio.o	7cd99df8a4fe1d63
+48	1485	7363710295168983	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_exti.o	d066325e150eb411
+2	1549	7363710296132572	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/Core_13247989168731456611.dir/main.o	b89ecf7f8aa9eca5
+1140	1823	7363710298842097	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_flash_ex.o	3d2758859c480524
+1394	1847	7363710298842097	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_tim_ex.o	5c90c101ec341f6a
+1338	1888	7363710299238300	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_flash.o	b2da911e66c5a789
+1490	1932	7363710299813864	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_tim.o	2cece1388c9cf370
+1428	2246	7363710303103263	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_rcc_ex.o	5a7a0b3673df739
+1553	2324	7363710303319876	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_rcc.o	99a072646ab60b0b
+1895	2353	7363710303854769	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_crs.o	564740cf48cb3bc9
+1937	2398	7363710304549366	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_gpio.o	6bc71ee70c942d5c
+1828	2430	7363710304847907	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_pwr_ex.o	6188a30c9fe067ce
+1854	2543	7363710306085911	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_rcc.o	1165605e56f27437
+2251	2730	7363710307988439	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_exti.o	e51f82b4de9d0669
+2358	2813	7363710308801813	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-32-sha512-asm_c.o	fdef95427f3f3d58
+2328	2845	7363710308942699	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_dma.o	90cce09ea74890ac
+2436	2903	7363710309530731	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-32-curve25519_c.o	ce5dec97476af1c0
+2402	2975	7363710310310748	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_utils.o	d3cf68bdd1749ef4
+2735	3166	7363710312342600	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/arc4.o	a84efe12f8d80a7f
+2819	3301	7363710313675674	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-curve25519_c.o	f1ebbdd2956cecbc
+2849	3316	7363710313615613	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-aes.o	af883f1282ca8f1a
+2980	3358	7363710314141032	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-sha256.o	493bde4d06091580
+2910	3387	7363710314501146	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-poly1305.o	9e507803ec4e102
+3173	3586	7363710316461799	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-chacha.o	ccb1d3b8cfc3cedb
+3321	3732	7363710317958132	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/asm.o	b656b943ba5283c4
+3364	3772	7363710318199070	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/atmel.o	a34522e260b88d5b
+3394	3823	7363710318680334	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/blake2b.o	d531b7c2ef4f276d
+3593	3982	7363710320496759	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-sha512.o	2fc3d3fe8643f33d
+3737	4197	7363710322571012	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/cmac.o	954656cdcd447982
+3777	4230	7363710322686375	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/blake2s.o	6ad062281c8663c4
+3988	4399	7363710324683194	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/camellia.o	6a1eac276594f5b
+3828	4443	7363710324814105	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/chacha20_poly1305.o	98c409cd3cfd1242
+4236	4636	7363710327046692	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/cpuid.o	1ee1a7c28374085b
+4203	4826	7363710328777030	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/chacha.o	119bc1a289ca281f
+4405	4857	7363710329039838	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/des3.o	7129d1f41beba392
+4448	4892	7363710329000661	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/dh.o	8fdbdb106b3605d9
+4642	5070	7363710331279210	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/dsa.o	7191b3764197b9df
+4832	5297	7363710333551723	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/compress.o	1381b397d69a29c0
+4897	5310	7363710333541097	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/curve448.o	6aedd4d727bb031a
+5314	5404	7363710334792026	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ecc_fp.o	ba8fa1387701561f
+5075	5574	7363710336409938	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ecc.o	55ea1a6e34e888f4
+4862	5668	7363710337263574	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/coding.o	3ac1970528ce2dc6
+5304	5731	7363710337935347	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/curve25519.o	5df630846c19f717
+2549	5811	7363710338700171	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/aes.o	90f5e53aba94987f
+5410	6005	7363710340708516	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/error.o	1018c69b49cf6856
+5579	6046	7363710340977163	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ed448.o	8a97ff9899611f5c
+5674	6079	7363710341380383	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/fe_low_mem.o	a710cab1b3f28162
+5738	6175	7363710342341366	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ge_low_mem.o	f57aa9c617b9be4b
+5816	6289	7363710343330163	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ed25519.o	4aed3c1d9879508b
+6052	6434	7363710345017839	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/fe_operations.o	b879f5ea6e697e01
+6014	6486	7363710345459406	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/eccsi.o	eac4f18cbb210abe
+6084	6554	7363710346174146	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ge_448.o	caec73208717e667
+6181	6632	7363710347032969	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/evp.o	87bf07d18379b19
+6296	6704	7363710347719914	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/fe_448.o	7bdcec3e1e014b9e
+6440	6930	7363710349938001	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ge_operations.o	4eb6f921f79ec051
+6710	7095	7363710351623177	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/integer.o	5a8cc0a3cc4bf7d2
+6638	7133	7363710351821475	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/memory.o	222cee59a03ff024
+6492	7145	7363710352047121	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/hmac.o	88541dc5fe090c98
+3308	7210	7363710352142420	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/asn.o	431c69a24a75831
+6935	7379	7363710354469692	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/md2.o	b6eea34c3cb50604
+6563	7434	7363710354972934	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/md5.o	fda26fe3aa2ebff9
+7099	7567	7363710356302836	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/md4.o	689511f6f6810ff1
+7150	7712	7363710357783873	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/kdf.o	afe7fbfc52f466af
+7387	7821	7363710358774968	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/misc.o	a845290538b842c3
+7138	7845	7363710358804975	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/hash.o	5f10e556ac2f4944
+7573	7960	7363710360280142	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ripemd.o	aeee8791bd42dcaf
+7217	7973	7363710360250152	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/logging.o	15046515bd69b72b
+7850	8269	7363710363363539	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/rsa.o	772f415c025d78ed
+7827	8301	7363710363433630	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/pkcs7.o	cca09d937ebd36cd
+7978	8362	7363710364290284	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/rc2.o	adf3831b66d67265
+7965	8443	7363710365067071	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sakke.o	e3a936ac920f0eed
+7718	8455	7363710365077049	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/poly1305.o	5d2eb19151145cd0
+7439	8754	7363710368016945	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/pkcs12.o	4f29b883dbc3d44d
+8308	8792	7363710368314851	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/random.o	f8a1f02e781f63ec
+8369	8803	7363710368440701	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sha.o	ef14ee4853b74bd1
+8759	9136	7363710372021027	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sha3.o	70272258fd8b66d7
+8274	9149	7363710372046194	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/pwdbased.o	b90a6279fef5946
+8449	9161	7363710372076295	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_c64.o	6cef785c5c92e774
+8460	9282	7363710373453688	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sha256.o	f321d50657e6f444
+8796	9294	7363710373518845	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/signature.o	c425a8c59ed41bc8
+9286	9653	7363710377230287	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sha512.o	89b3e3e238526fb0
+9300	9729	7363710377756520	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/stm32.o	e7b5a2859bb4a5cd
+9167	9821	7363710378793056	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_c32.o	9a02916f96cc64de
+8807	9909	7363710379592474	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_arm32.o	963e31c23ca0b831
+9735	10186	7363710382543390	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wc_dsp.o	1ed60a6449561496
+9916	10290	7363710383497635	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/srp.o	64e9abb68eaa500a
+9155	10304	7363710383412411	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_arm64.o	796f4e95583f2f25
+9141	10404	7363710384380617	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_armthumb.o	e296a0ebf1133e65
+9830	10483	7363710385418635	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wc_encrypt.o	3e1f868db58ef623
+10295	10781	7363710388449614	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_int.o	ff7c753983b7f73f
+9659	10805	7363710388334182	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_x86_64.o	642d4aaecd89ab17
+10308	10825	7363710388563798	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_dsp32.o	addac180066a66cd
+10409	10838	7363710388974192	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/stsafe.o	ef189f83f04ac6ac
+10192	10917	7363710389736599	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_cortexm.o	5103fba20e6103f
+10811	11216	7363710392849702	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wc_pkcs11.o	27382107c23cde9b
+10829	11261	7363710393042172	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/bio.o	84efbfb94798c5c9
+10787	11321	7363710393832374	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wc_port.o	cc159d047fee0c27
+11222	11613	7363710396818568	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wolfevent.o	6f0c603aac77e74e
+10923	11681	7363710397399702	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Test_15629031776329140406.dir/wolfssl_example.o	df025d1ed0aa4d60
+11327	11809	7363710398714569	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wolfmath.o	caa5033a8afd1357
+11619	12048	7363710401148860	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/dtls.o	2dc2326ba19aea94
+11687	12096	7363710401541388	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/conf.o	b43d5f6c2d3c4dd3
+11815	12228	7363710402962446	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/crl.o	5a3520235535859c
+11266	12416	7363710404718913	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Test_15629031776329140406.dir/benchmark.o	492d6972754baac6
+12054	12457	7363710405078967	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/ocsp.o	e6b5329624d58ca9
+12100	12657	7363710407209033	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/internal.o	d99545539e2ae189
+12237	12699	7363710407560153	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/quic.o	5db655d640c28232
+10488	12866	7363710409193626	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/tfm.o	6e326a7fe7355d6c
+12465	12915	7363710409805929	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/sniffer.o	ffcd2f1971ce089f
+12663	13093	7363710411598324	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/keys.o	aa6fc7d9e8dcd6de
+12706	13144	7363710412107600	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/pk.o	739c600f8a77d7eb
+12872	13293	7363710413604236	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/dtls13.o	94c63a70c0ebb351
+12922	13338	7363710413909571	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/ssl_misc.o	75df768d5fb6cf4d
+12422	13432	7363710414846460	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/ssl.o	2703989941e07ddd
+13099	13593	7363710416589958	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/tls13.o	5d941272d92f344a
+13148	13636	7363710416695207	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/wolfio.o	7529908497c0cedd
+13345	13743	7363710418066824	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_dma_ex.o	ef5799a4dda775a7
+13298	13806	7363710418689760	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/tls.o	2477105cd1c7c27
+13438	13860	7363710419272922	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/CMSIS_6603591812247902717.dir/system_stm32g0xx.o	af8adceab29fc2ea
+13642	14110	7363710421774601	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal.o	7e21f53bdee1fd54
+14115	14169	7363710422433116	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/EWARM_18443280873093131863.dir/startup_stm32g0b1xx.o	50cb29168ea6d98e
+13812	14242	7363710422934733	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/x509_str.o	d951259959bb810f
+13750	14246	7363710422974989	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_cortex.o	6b59274955b6ca6b
+13601	14252	7363710422929616	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_dma.o	a90532a02a9753f4
+13866	14316	7363710423818426	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/x509.o	1e9ff7ae25414ca1
+10842	14372	7363710424140301	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Test_15629031776329140406.dir/test.o	9885dac01883d792
+14376	14568	7363710426214346	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+14573	14600	7363710426803790	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
+5	327	7363714981471035	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/Core_13247989168731456611.dir/main.o	b89ecf7f8aa9eca5
+328	510	7363714983228744	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+514	528	7363714983657048	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
+5	477	7363718189533532	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/Core_13247989168731456611.dir/main.o	b89ecf7f8aa9eca5
+479	672	7363718191446093	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+677	693	7363718191989487	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
+6	400	7363718523793772	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/Core_13247989168731456611.dir/main.o	b89ecf7f8aa9eca5
+401	601	7363718525656318	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+606	626	7363718526213543	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
+6	287	7363722287063147	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+289	306	7363722287515628	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
+4	213	7363723301886464	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+216	232	7363723302360723	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
+4	197	7363723880377947	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+199	211	7363723880708735	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
+3	204	7363724826565057	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+206	220	7363724826936100	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
+12	935	7363725281095209	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/Core_13247989168731456611.dir/stm32g0xx_it.o	37f062b40404bf82
+18	964	7363725281245752	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/Core_13247989168731456611.dir/stm32g0xx_hal_msp.o	f90191da556d694b
+52	1066	7363725282428919	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_exti.o	d066325e150eb411
+60	1103	7363725282583914	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_gpio.o	7cd99df8a4fe1d63
+45	1197	7363725283764430	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_flash_ex.o	3d2758859c480524
+3	1341	7363725285031051	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/Core_13247989168731456611.dir/main.o	b89ecf7f8aa9eca5
+938	1375	7363725285351092	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_pwr.o	9f680e3adca06ffe
+969	1476	7363725286499453	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_flash.o	b2da911e66c5a789
+1072	1545	7363725287173938	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_tim.o	2cece1388c9cf370
+1109	1688	7363725288650413	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_pwr_ex.o	6188a30c9fe067ce
+1385	1861	7363725290308911	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_tim_ex.o	5c90c101ec341f6a
+1483	2021	7363725292009961	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_exti.o	e51f82b4de9d0669
+1550	2057	7363725292200592	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_crs.o	564740cf48cb3bc9
+1203	2083	7363725292401261	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_rcc_ex.o	5a7a0b3673df739
+1345	2172	7363725293437061	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_rcc.o	99a072646ab60b0b
+1693	2388	7363725295573926	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_rcc.o	1165605e56f27437
+1866	2436	7363725295794629	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_gpio.o	6bc71ee70c942d5c
+2061	2541	7363725297143824	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-32-curve25519_c.o	ce5dec97476af1c0
+2027	2572	7363725297269235	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_dma.o	90cce09ea74890ac
+2179	2628	7363725298053920	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/arc4.o	a84efe12f8d80a7f
+2394	2889	7363725300597198	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-32-sha512-asm_c.o	fdef95427f3f3d58
+2547	3016	7363725301942677	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-curve25519_c.o	f1ebbdd2956cecbc
+2576	3072	7363725302362425	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-aes.o	af883f1282ca8f1a
+2441	3089	7363725302402421	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_utils.o	d3cf68bdd1749ef4
+2636	3159	7363725303258389	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-poly1305.o	9e507803ec4e102
+2895	3388	7363725305684616	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-sha256.o	493bde4d06091580
+3022	3580	7363725307288087	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-chacha.o	ccb1d3b8cfc3cedb
+3095	3634	7363725307791170	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/atmel.o	a34522e260b88d5b
+3081	3650	7363725307927791	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/blake2b.o	d531b7c2ef4f276d
+3394	3941	7363725311180356	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/asm.o	b656b943ba5283c4
+3587	4055	7363725312332764	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-sha512.o	2fc3d3fe8643f33d
+3642	4094	7363725312731581	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/blake2s.o	6ad062281c8663c4
+3655	4140	7363725312971706	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/cmac.o	954656cdcd447982
+4101	4498	7363725316779184	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/camellia.o	6a1eac276594f5b
+4145	4541	7363725316949916	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/dsa.o	7191b3764197b9df
+3947	4585	7363725317326033	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/chacha.o	119bc1a289ca281f
+4062	4710	7363725318877059	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/chacha20_poly1305.o	98c409cd3cfd1242
+4505	4946	7363725321271567	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/des3.o	7129d1f41beba392
+4590	4979	7363725321537427	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/curve448.o	6aedd4d727bb031a
+4545	5023	7363725322009662	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ecc.o	55ea1a6e34e888f4
+4717	5155	7363725323244019	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/compress.o	1381b397d69a29c0
+4951	5424	7363725325895157	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/dh.o	8fdbdb106b3605d9
+5029	5528	7363725327050227	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/cpuid.o	1ee1a7c28374085b
+5430	5545	7363725327175421	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ecc_fp.o	ba8fa1387701561f
+2088	5634	7363725328032608	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/aes.o	90f5e53aba94987f
+5163	5688	7363725328254573	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/curve25519.o	5df630846c19f717
+4985	5873	7363725330294201	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/coding.o	3ac1970528ce2dc6
+5534	6042	7363725332129825	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ed25519.o	4aed3c1d9879508b
+5640	6072	7363725332210026	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/fe_low_mem.o	a710cab1b3f28162
+5551	6100	7363725332426906	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/eccsi.o	eac4f18cbb210abe
+5695	6129	7363725332938465	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ed448.o	8a97ff9899611f5c
+5879	6310	7363725334911572	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/fe_448.o	7bdcec3e1e014b9e
+6048	6457	7363725336361155	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/fe_operations.o	b879f5ea6e697e01
+6077	6512	7363725336871345	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/evp.o	87bf07d18379b19
+6106	6558	7363725337367714	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ge_448.o	caec73208717e667
+6314	6712	7363725338878259	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ge_low_mem.o	f57aa9c617b9be4b
+6136	6774	7363725339093949	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/error.o	1018c69b49cf6856
+6464	6985	7363725341642556	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ge_operations.o	4eb6f921f79ec051
+6718	7186	7363725343643258	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/integer.o	5a8cc0a3cc4bf7d2
+6518	7219	7363725343843890	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/hmac.o	88541dc5fe090c98
+6781	7342	7363725345200249	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/kdf.o	afe7fbfc52f466af
+6565	7401	7363725345749101	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/md5.o	fda26fe3aa2ebff9
+3166	7504	7363725346413676	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/asn.o	431c69a24a75831
+7191	7703	7363725348802097	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/memory.o	222cee59a03ff024
+6991	7778	7363725349548255	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/logging.o	15046515bd69b72b
+7349	7818	7363725349753377	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/md2.o	b6eea34c3cb50604
+7407	7880	7363725350529105	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/md4.o	689511f6f6810ff1
+7223	7906	7363725350612861	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/hash.o	5f10e556ac2f4944
+7511	7981	7363725351561354	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/misc.o	a845290538b842c3
+7824	8253	7363725354200189	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ripemd.o	aeee8791bd42dcaf
+7887	8284	7363725354531529	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/rc2.o	adf3831b66d67265
+7912	8457	7363725356331079	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sakke.o	e3a936ac920f0eed
+7784	8658	7363725358327405	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/pwdbased.o	b90a6279fef5946
+7988	8693	7363725358498029	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/poly1305.o	5d2eb19151145cd0
+8258	8740	7363725359124746	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/pkcs7.o	cca09d937ebd36cd
+8291	8765	7363725359235669	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/rsa.o	772f415c025d78ed
+8463	8939	7363725361174594	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/random.o	f8a1f02e781f63ec
+7712	9097	7363725362472062	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/pkcs12.o	4f29b883dbc3d44d
+8664	9120	7363725362672638	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sha.o	ef14ee4853b74bd1
+8700	9135	7363725362827916	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/srp.o	64e9abb68eaa500a
+8748	9231	7363725364079363	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wc_dsp.o	1ed60a6449561496
+8771	9265	7363725364430294	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/stsafe.o	ef189f83f04ac6ac
+9141	9662	7363725368232978	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/stm32.o	e7b5a2859bb4a5cd
+9238	9695	7363725368554096	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wc_pkcs11.o	27382107c23cde9b
+9128	9717	7363725368428424	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wc_port.o	cc159d047fee0c27
+9271	9977	7363725371342257	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wc_encrypt.o	3e1f868db58ef623
+9700	10124	7363725373048597	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sha512.o	89b3e3e238526fb0
+9105	10251	7363725374131631	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_x86_64.o	642d4aaecd89ab17
+9668	10351	7363725375229489	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_c64.o	6cef785c5c92e774
+9984	10409	7363725375862833	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sha3.o	70272258fd8b66d7
+10257	10731	7363725379113634	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/signature.o	c425a8c59ed41bc8
+10130	10943	7363725381168330	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sha256.o	f321d50657e6f444
+9723	11021	7363725381735049	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_armthumb.o	e296a0ebf1133e65
+8944	11367	7363725385310032	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/tfm.o	6e326a7fe7355d6c
+10736	11434	7363725386072262	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_c32.o	9a02916f96cc64de
+11027	11513	7363725386895467	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_int.o	ff7c753983b7f73f
+10413	11565	7363725387041447	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_arm32.o	963e31c23ca0b831
+10356	11611	7363725387524234	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_arm64.o	796f4e95583f2f25
+10952	11686	7363725388529449	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_cortexm.o	5103fba20e6103f
+11375	11942	7363725391208531	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_dsp32.o	addac180066a66cd
+11440	12029	7363725392083123	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/quic.o	5db655d640c28232
+11618	12087	7363725392590949	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/ssl_misc.o	75df768d5fb6cf4d
+11572	12117	7363725392731369	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/tls.o	2477105cd1c7c27
+11692	12215	7363725393940969	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/sniffer.o	ffcd2f1971ce089f
+11947	12404	7363725395814947	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/wolfio.o	7529908497c0cedd
+12093	12470	7363725396476341	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/ocsp.o	e6b5329624d58ca9
+12036	12484	7363725396496320	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/tls13.o	5d941272d92f344a
+11521	12602	7363725397678812	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/ssl.o	2703989941e07ddd
+12121	12641	7363725397946269	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/pk.o	739c600f8a77d7eb
+12221	12657	7363725398188032	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/conf.o	b43d5f6c2d3c4dd3
+12476	12918	7363725401007460	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/dtls.o	2dc2326ba19aea94
+12490	13008	7363725401763804	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wolfmath.o	caa5033a8afd1357
+12609	13039	7363725402074895	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wolfevent.o	6f0c603aac77e74e
+12662	13101	7363725402809745	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/crl.o	5a3520235535859c
+12925	13388	7363725405629869	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/bio.o	84efbfb94798c5c9
+12649	13474	7363725406315334	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Test_15629031776329140406.dir/wolfssl_example.o	df025d1ed0aa4d60
+13107	13532	7363725407094968	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/keys.o	aa6fc7d9e8dcd6de
+13044	13612	7363725407861945	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/internal.o	d99545539e2ae189
+12411	13675	7363725408463556	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Test_15629031776329140406.dir/benchmark.o	492d6972754baac6
+13395	13860	7363725410384538	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/dtls13.o	94c63a70c0ebb351
+13480	13912	7363725410857378	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/CMSIS_6603591812247902717.dir/system_stm32g0xx.o	af8adceab29fc2ea
+13917	13955	7363725411464849	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/EWARM_18443280873093131863.dir/startup_stm32g0b1xx.o	50cb29168ea6d98e
+13539	14057	7363725412347586	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal.o	7e21f53bdee1fd54
+13618	14141	7363725413193825	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_cortex.o	6b59274955b6ca6b
+13869	14308	7363725414728076	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_dma_ex.o	ef5799a4dda775a7
+13681	14332	7363725414811704	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_dma.o	a90532a02a9753f4
+13960	14358	7363725415307224	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/x509_str.o	d951259959bb810f
+14060	14456	7363725416380856	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/x509.o	1e9ff7ae25414ca1
+13013	15521	7363725426849392	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Test_15629031776329140406.dir/test.o	9885dac01883d792
+15524	15712	7363725428827826	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+15717	15743	7363725429371032	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
+4	205	7363725967039937	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+210	224	7363725967484170	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
+3	331	7363726656465650	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/Core_13247989168731456611.dir/main.o	b89ecf7f8aa9eca5
+332	520	7363726658498922	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+524	552	7363726659111553	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
+4	211	7363727104666089	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+214	228	7363727105110329	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
+4	221	7363727804711598	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+222	234	7363727805105532	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
+4	277	7363733072023066	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/Core_13247989168731456611.dir/main.o	b89ecf7f8aa9eca5
+279	488	7363733073767769	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+491	505	7363733074491569	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
+4	2020	7363738539553413	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/Core_13247989168731456611.dir/main.o	b89ecf7f8aa9eca5
+2022	2196	7363738541345243	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+2202	2214	7363738541763773	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
+4	308	7363740163881506	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/Core_13247989168731456611.dir/main.o	b89ecf7f8aa9eca5
+310	492	7363740165581264	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+495	509	7363740166027757	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
+62	1223	7363779497068916	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/arc4.o	a84efe12f8d80a7f
+56	1276	7363779497897239	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-32-curve25519_c.o	ce5dec97476af1c0
+29	1290	7363779497734510	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-32-sha512-asm_c.o	fdef95427f3f3d58
+69	1412	7363779499462068	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-poly1305.o	9e507803ec4e102
+6	1483	7363779500306252	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/Core_13247989168731456611.dir/main.o	b89ecf7f8aa9eca5
+1225	1721	7363779502835887	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-sha256.o	493bde4d06091580
+1281	1755	7363779502967002	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-aes.o	af883f1282ca8f1a
+1295	1792	7363779503331786	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-curve25519_c.o	f1ebbdd2956cecbc
+1418	1832	7363779503920851	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-chacha.o	ccb1d3b8cfc3cedb
+1488	1927	7363779504898950	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/blake2b.o	d531b7c2ef4f276d
+1727	2164	7363779507278027	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/atmel.o	a34522e260b88d5b
+1761	2177	7363779507247471	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/asm.o	b656b943ba5283c4
+1838	2212	7363779507562543	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/armv8-sha512.o	2fc3d3fe8643f33d
+1932	2479	7363779510398326	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/chacha20_poly1305.o	98c409cd3cfd1242
+2184	2587	7363779511467642	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/cmac.o	954656cdcd447982
+2220	2626	7363779511703672	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/blake2s.o	6ad062281c8663c4
+2170	2789	7363779513469777	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/chacha.o	119bc1a289ca281f
+2486	2946	7363779515060923	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/camellia.o	6a1eac276594f5b
+2594	2987	7363779515465635	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/curve25519.o	5df630846c19f717
+2633	3055	7363779516180768	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/dsa.o	7191b3764197b9df
+2796	3280	7363779518417072	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ecc.o	55ea1a6e34e888f4
+2953	3382	7363779519433111	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/compress.o	1381b397d69a29c0
+2994	3453	7363779520075963	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/des3.o	7129d1f41beba392
+3062	3511	7363779520696927	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/dh.o	8fdbdb106b3605d9
+3287	3817	7363779523735418	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/cpuid.o	1ee1a7c28374085b
+3459	3934	7363779524950860	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/curve448.o	6aedd4d727bb031a
+3518	3980	7363779525230452	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ed25519.o	4aed3c1d9879508b
+21	4034	7363779525860016	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/aes.o	90f5e53aba94987f
+3388	4225	7363779527857065	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/coding.o	3ac1970528ce2dc6
+3824	4284	7363779528477654	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ge_low_mem.o	f57aa9c617b9be4b
+3987	4425	7363779529863751	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/fe_low_mem.o	a710cab1b3f28162
+3940	4466	7363779530110892	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/eccsi.o	eac4f18cbb210abe
+4042	4510	7363779530523692	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ge_448.o	caec73208717e667
+4233	4707	7363779532699899	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/evp.o	87bf07d18379b19
+4292	4756	7363779533152863	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ed448.o	8a97ff9899611f5c
+4431	4890	7363779534491333	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/fe_operations.o	b879f5ea6e697e01
+4518	4948	7363779535083800	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/fe_448.o	7bdcec3e1e014b9e
+4472	5072	7363779536323004	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/error.o	1018c69b49cf6856
+4713	5200	7363779537627329	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ge_operations.o	4eb6f921f79ec051
+4897	5325	7363779538888991	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/md2.o	b6eea34c3cb50604
+4762	5424	7363779539846428	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/hash.o	5f10e556ac2f4944
+5078	5462	7363779540239885	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/md4.o	689511f6f6810ff1
+4955	5549	7363779541114601	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/hmac.o	88541dc5fe090c98
+1798	5745	7363779542894630	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/asn.o	431c69a24a75831
+5331	5894	7363779544567553	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/kdf.o	afe7fbfc52f466af
+5206	5934	7363779544712570	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/md5.o	fda26fe3aa2ebff9
+5554	5948	7363779544838609	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/integer.o	5a8cc0a3cc4bf7d2
+5469	5960	7363779544923943	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/memory.o	222cee59a03ff024
+5430	6064	7363779546249060	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/logging.o	15046515bd69b72b
+5752	6209	7363779547639380	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/misc.o	a845290538b842c3
+5955	6313	7363779548753123	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/rc2.o	adf3831b66d67265
+5901	6359	7363779549129657	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sakke.o	e3a936ac920f0eed
+5940	6372	7363779549154710	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/random.o	f8a1f02e781f63ec
+5966	6410	7363779549385790	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/ripemd.o	aeee8791bd42dcaf
+6216	6671	7363779552360009	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/pkcs7.o	cca09d937ebd36cd
+6070	6703	7363779552619982	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/poly1305.o	5d2eb19151145cd0
+6417	6819	7363779553824170	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sha.o	ef14ee4853b74bd1
+6378	6850	7363779553984944	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/rsa.o	772f415c025d78ed
+6676	7096	7363779556577846	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/signature.o	c425a8c59ed41bc8
+6709	7133	7363779556808218	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sha512.o	89b3e3e238526fb0
+6319	7149	7363779556930223	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/pwdbased.o	b90a6279fef5946
+6823	7241	7363779558070247	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sha3.o	70272258fd8b66d7
+6365	7567	7363779561263260	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/pkcs12.o	4f29b883dbc3d44d
+6856	7602	7363779561637423	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sha256.o	f321d50657e6f444
+7156	7751	7363779563138052	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_c64.o	6cef785c5c92e774
+7573	8110	7363779566726969	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_c32.o	9a02916f96cc64de
+7248	8213	7363779567652396	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_arm32.o	963e31c23ca0b831
+7104	8228	7363779567691690	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_arm64.o	796f4e95583f2f25
+7141	8279	7363779568056877	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_armthumb.o	e296a0ebf1133e65
+7611	8551	7363779571093698	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_x86_64.o	642d4aaecd89ab17
+8116	8584	7363779571294838	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wc_dsp.o	1ed60a6449561496
+8221	8597	7363779571462349	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/srp.o	64e9abb68eaa500a
+8286	8732	7363779572966181	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_dsp32.o	addac180066a66cd
+8234	8766	7363779573162243	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_int.o	ff7c753983b7f73f
+8603	9045	7363779576054253	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/stm32.o	e7b5a2859bb4a5cd
+8738	9149	7363779577098152	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/stsafe.o	ef189f83f04ac6ac
+8774	9188	7363779577233493	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wc_pkcs11.o	27382107c23cde9b
+8590	9204	7363779577400076	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wc_encrypt.o	3e1f868db58ef623
+8558	9218	7363779577455278	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/sp_cortexm.o	5103fba20e6103f
+9052	9530	7363779580948958	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wc_port.o	cc159d047fee0c27
+9227	9544	7363779581018741	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/ssl_misc.o	75df768d5fb6cf4d
+9157	9578	7363779581092889	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/ocsp.o	e6b5329624d58ca9
+9196	9638	7363779582017255	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/pk.o	739c600f8a77d7eb
+7757	9854	7363779584168596	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/tfm.o	6e326a7fe7355d6c
+9536	9946	7363779585112805	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/quic.o	5db655d640c28232
+9585	10013	7363779585716697	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/tls.o	2477105cd1c7c27
+9551	10027	7363779585751890	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/sniffer.o	ffcd2f1971ce089f
+9644	10063	7363779586159779	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/tls13.o	5d941272d92f344a
+9211	10125	7363779586866701	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/ssl.o	2703989941e07ddd
+9860	10279	7363779588401443	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/wolfio.o	7529908497c0cedd
+10033	10434	7363779589968572	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/conf.o	b43d5f6c2d3c4dd3
+10019	10467	7363779590152007	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wolfevent.o	6f0c603aac77e74e
+10070	10541	7363779591038707	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Core_12094144932994212940.dir/wolfmath.o	caa5033a8afd1357
+10287	10694	7363779592567465	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/crl.o	5a3520235535859c
+9954	10730	7363779592894667	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Test_15629031776329140406.dir/wolfssl_example.o	df025d1ed0aa4d60
+10438	10833	7363779593949623	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/dtls.o	2dc2326ba19aea94
+10473	10870	7363779594184595	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/bio.o	84efbfb94798c5c9
+10700	11209	7363779597405721	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/keys.o	aa6fc7d9e8dcd6de
+10841	11263	7363779598084202	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/dtls13.o	94c63a70c0ebb351
+10875	11378	7363779599412188	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/x509.o	1e9ff7ae25414ca1
+10737	11410	7363779599695988	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/internal.o	d99545539e2ae189
+11213	11588	7363779601451030	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfSSL/Core_18141034100668064349.dir/x509_str.o	d951259959bb810f
+10546	11617	7363779601789806	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Test_15629031776329140406.dir/benchmark.o	492d6972754baac6
+10132	12621	7363779611748727	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/wolfSSL/wolfCrypt/Test_15629031776329140406.dir/test.o	9885dac01883d792
+12627	12810	7363779613687718	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+12814	12831	7363779614136442	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
+10	415	7364524198373515	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Obj/Core_13247989168731456611.dir/main.o	b89ecf7f8aa9eca5
+417	1421	7364524208317170	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+1424	1445	7364524208910411	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
+4	237	7364525695511829	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+238	260	7364525696087578	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
+6	235	7364526574026963	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.out	9259bd508525a464
+238	255	7364526574564951	D:/STM32/new-work/JIO/Source Code/walfssl -stm32G0/EWARM/walfssl/Exe/walfssl.hex	4f9802be2d0865ba
